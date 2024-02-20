@@ -1,2 +1,2 @@
 # Machine Learning Notebooks
-Miscellaneous ML projects
+Various machine learning projects
